@@ -132,5 +132,5 @@ imbalanced-learn
 ---
 
 ## 👤 Author
-**Ganesh Kumar S**
-CodeAlpha Machine Learning Internship — Task 2
+**[Ganesh Kumar S]**
+CodeAlpha Machine Learning Internship
